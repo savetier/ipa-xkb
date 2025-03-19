@@ -36,7 +36,7 @@ xkb_symbols "basic" {
 
     key <AD01>	{ [     U0294,      U02D0,        U02C8,     U02CC ]	};
     key <AD02>	{ [         w,      U028D,        U0270           ]	};
-    key <AD03>	{ [         e,      U0259,        U025B,     U0258 ]	};
+    key <AD03>	{ [         e,      U025B,        U0259,     U0258 ]	};
     key <AD04>	{ [     U0280,      U0281,            r,     U0279 ]	};
     key <AD05>	{ [         t,      U03B8,        U0288           ]	};
     key <AD06>	{ [         z,      U0292,        U0290,     U0291 ]	};
